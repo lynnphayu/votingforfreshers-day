@@ -1,0 +1,19 @@
+#banner{
+    width: 100%;
+    background: #2979FF;
+    padding: 0.2em;
+    color: #ededed;
+}
+
+#king_queen_toggle{
+    padding: 0.3em 0;
+    display: flex;
+    justify-content: center;
+}
+
+.facebook_button{
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
